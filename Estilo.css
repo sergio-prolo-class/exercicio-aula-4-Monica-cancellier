@@ -1,3 +1,23 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+
+.caixa-habilidades {
+    background-color: aquamarine;
+    border: 3px solid palevioletred;
+    padding: 30px;
+    margin: 20 px;
+    height: 200px;
+    overflow: auto;
+}
+
 body {
     color: pink
 }
