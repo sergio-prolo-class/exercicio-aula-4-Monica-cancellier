@@ -10,7 +10,7 @@ html {
 
 
 .caixa-habilidades {
-    background-color: aquamarine;
+    background-color: rgb(255, 255, 255);
     border: 3px solid palevioletred;
     padding: 30px;
     margin: 20 px;
@@ -19,7 +19,7 @@ html {
 }
 
 body {
-    color: pink
+    color: rgb(163, 104, 114)
 }
 
 h1 {
